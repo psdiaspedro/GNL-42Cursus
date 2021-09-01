@@ -7,7 +7,9 @@
 	For further information about 42cursus and its projects, please refer to <a href="https://github.com/psdiaspedro?tab=repositories"><b>my repo</b></a>.
 </p>
 
-## Function that returns a line read from a file descriptor
+# 🗣️ About
+
+> GNL is a function that returns a line, read from a file descriptor.
 
 GetNextLine is the second project in the study program at School 42 (UNIT Factory).
 Calling the function get_next_line in a loop will then allow the user to read the text available on the file descriptor one line at
@@ -16,7 +18,7 @@ has just been read. If there is nothing else to read or if an error has occurred
 
 All functions are created in accordance with Norm - the bunch of rules how code should be formatted.
 
-**NOTE** <br />
+**NOTE!** <br />
 Because of 42 School norm requirements: <br />
 * All variables are declared and aligned at the top of each function <br />
 * Each function can't have more then 25 lines of code <br />
